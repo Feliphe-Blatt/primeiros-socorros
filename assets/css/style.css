@@ -1,0 +1,9 @@
+.navbar-nav {
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.navbar-nav .dropdown-menu {
+    position: static;
+    float: none;
+}
