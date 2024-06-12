@@ -69,9 +69,6 @@ footer {
     max-width: 700px;
     margin: auto auto max(1vh, 1vw);
     padding: 0 min(5vh, 5vw);
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
     background-color: var(--background-primary);
     box-shadow: var(--sombra-box-padrao);
     border-radius: var(--borda-padrao);
