@@ -15,7 +15,6 @@
 }
 
 body {
-    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,7 +35,7 @@ h1, h2, h3 {
 }
 
 header {
-    width: 99%;
+    width: 100%;
     margin-bottom: 1vh;
 }
 
@@ -60,7 +59,7 @@ header {
 main {
     width: 94%;
     max-width: 900px;
-    margin: max(6vh, 6vw) auto max(1vh, 1vw);
+    margin: max(1vh, 1vw) auto;
     padding: 20px;
     background-color: white;
     box-shadow: var(--sombra-box-padrao);
