@@ -15,12 +15,6 @@
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
-    width: 100%;
-    overflow-x: auto;
     font-family: 'roboto', sans-serif;
     background-color: var(--background-secondary);
     text-shadow: var(--texto-sombra-padrao);
